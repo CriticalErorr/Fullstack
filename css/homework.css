@@ -1,0 +1,27 @@
+.header a{
+    font-size: 25px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.header a:hover {
+    color: #e9e6589c;
+  }
+
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+ 
+ }
+
+ h1 {
+    color: brown;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+h2 {
+    color: brown;
+    font-family: 'Permanent Marker', cursive;
+}
+

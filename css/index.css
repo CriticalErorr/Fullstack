@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+p {
+    text-align: center;font-size: 24px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+
+.header {
+   height: 100px;
+   width: 100%;
+   background-color: black;
+}
+
+.header a{
+    font-size: 25px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.header a:hover {
+    color: #e9e6589c;
+
+  }
